@@ -146,15 +146,6 @@ You can replace the sample data via the **sidebar file uploader**:
 | `rate`         | Basic rate for payout calculation     |
 
 
-
----
-
-## ⚠️ Known Issues
-
-- Seaborn palette warnings appear on older versions — assign `hue` to suppress.
-- Some charts may appear squished on smaller screens. Use **wide layout** in Streamlit for optimal spacing.
-- Ensure **Streamlit version ≥ 1.20** for full compatibility.
-
 ---
 
 ## 🧠 Key Insights
