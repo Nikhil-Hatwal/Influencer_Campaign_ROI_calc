@@ -147,7 +147,6 @@ You can replace the sample data via the **sidebar file uploader**:
 
 
 ---
-
 ## 🧠 Key Insights
 
 - Identify top revenue-generating influencers.
